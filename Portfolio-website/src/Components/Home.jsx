@@ -1,5 +1,5 @@
 import React from "react";
-import imgSrc from "../assets/IMG_1022.JPG";
+import imgSrc from "../assets/IMG_1022.jpg";
 import { NavLink } from "react-router-dom";
 
 const Home = () => {

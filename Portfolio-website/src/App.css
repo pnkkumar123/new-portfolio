@@ -23,8 +23,8 @@ body{
   box-shadow: 0 0 10px rgba(25, 26, 26, 0.81);
 }
 hr{
-  width: 80%; /* Set the desired width, you can use percentage or other units */
-      margin: 20px auto; /* Optional: Center the hr element */
+  width: 80%; 
+      margin: 20px auto; 
       border: 1px solid #ccc;
 }
 .title{

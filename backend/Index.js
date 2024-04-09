@@ -36,7 +36,7 @@ app.use("/admin", routes);
 // Deployment
 const __dirname1 = path.resolve();
 
-if (process.env.NODE_ENV === "production") {
+if ("production" === "production") {
     app.use(express.static(path.join(__dirname1, "/Portfolio-website/dist")));
   
     app.get("*", (req, res) => 

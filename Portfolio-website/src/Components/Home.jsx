@@ -19,7 +19,7 @@ const Home = () => {
       </figure>
       <figcaption>
         <p style={{fontWeight:"bold"}}>
-          As a Full web developer, I've gained valuable experience through
+          As a Full stack web developer, I've gained valuable experience through
           hands-on <NavLink to="/projects">PROJECTS</NavLink> utilizing various web technologies{" "}
           <NavLink to="/skills" >SKILLS</NavLink>. Eager to apply my skills and
           contribute to dynamic projects with a keen focus on creativity and
